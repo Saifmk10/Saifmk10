@@ -28,7 +28,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF737&random=true&width=435&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%93+Linus+Torvalds;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%93+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%93+Kent+Beck" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF737&vCenter=true&random=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%93+Linus+Torvalds;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%93+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%93+Kent+Beck" alt="Typing SVG" /></a>
 </p>
 </details>
 
