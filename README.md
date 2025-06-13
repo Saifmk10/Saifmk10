@@ -1,34 +1,55 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm SAIF</h1>
 
-###
+<p align="center">
+    <img src="https://img.shields.io/badge/Focus-App%20Development-00719D?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-UI/UX-CB9DF0?style=flat" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Saifmk10&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
+</p>
 
-###
+<details open>
+<summary>Connect With Me</summary>
+<p align="center">
+    <a href="https://www.instagram.com/saifmk10/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://saifmk.website/">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/saif-mohamed-9ab7302b0/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+</p>
+</details>
 
-<h1 align="center">HEY THERE👋</h1>
+<details open>
+<summary>Developer Quote</summary>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF737&random=true&width=435&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%93+Linus+Torvalds;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%93+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%93+Kent+Beck" alt="Typing SVG" /></a>
+</p>
+</details>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
+<details open>
+<summary>About Me</summary>
+<ul>
+<!-- <li>🔭 Founder of Nanna Bengaluru</li> -->
+<li>🌱 Currently focused on Full Stack App Development</li>
+<li>👨‍💻 All projects at <a href="https://github.com/Saifmk10">GitHub</a></li>
+<li>🏠 Visit my website at <a href="https://saifmk.website/">saifmk.website</a></li>
+<li>📫 Contact me at <strong>saifmkpvt@gmail.com</strong></li>
+</ul>
+</details>
 
-<p align="left">I'm from Bengaluru<br><br>- 🔭 I’m working as App Developer<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I sleep</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+<details open>
+<summary>Skills & Tools</summary>
+<h3 align="center">Languages , Frameworks & Tools</h3>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -61,21 +82,63 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+</p>
 
-###
+<!-- <h3 align="center">Tools & Editors</h3> -->
+<p align="center">
+    
+</p>
+</details>
 
-<h3 align="left">🔥   My Stats :</h3>
+<details open>
+<summary>Top Projects</summary>
+<p align="center">
+    <a href="https://github.com/itsKayWat/ChatGPT-Recipe_Studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=weather---by-digitalLog&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/itsKayWat/GitSwift">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=saif-s-portfolio&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/itsKayWat/Smart_Text_Expander">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=investo&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+</details>
 
-###
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifmk10&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saifmk10&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's GitHub stats" />
+</p>
 
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saifmk10&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's trophies"/>
+</p>
+</details>
 
-###
+
+<p align="center" style="font-style: italic; color: #C2FFC7;">
+    🛠️ Currently building : Connecting Individuals Within the City Through a Unified Platform
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifmk10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saifmk10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<a href="#">
+    <img height="120" alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</a>
+<br>
 
-###
+<blockquote>
+<p><strong>"Keep building, keep dreaming — the future runs on your code"</strong></p>
+</blockquote>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+</p>
+</div>
