@@ -93,13 +93,13 @@
 <details open>
 <summary>Top Projects</summary>
 <p align="center">
-    <a href="https://github.com/itsKayWat/ChatGPT-Recipe_Studio">
+    <a href="https://github.com/Saifmk10/weather---by-digitalLog">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=weather---by-digitalLog&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/itsKayWat/GitSwift">
+    <a href="https://github.com/Saifmk10/saif-s-portfolio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=saif-s-portfolio&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/itsKayWat/Smart_Text_Expander">
+    <a href="https://github.com/Saifmk10/investo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=investo&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
