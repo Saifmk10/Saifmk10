@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-App%20Development-00719D?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Backend%20Development-C2FFC7?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-UI/UX-CB9DF0?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-AI/ML-CB9DF0?style=flat" />
 </p>
 
 <p align="center">
