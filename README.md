@@ -127,17 +127,7 @@
 </p>
 </details>
 
-<details open>
-<summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saifmk10&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Saif's GitHub stats" />
-</p>
 
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saifmk10&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's trophies"/>
-</p>
-</details>
 
 
 <p align="center" style="font-style: italic; color: #C2FFC7;">
