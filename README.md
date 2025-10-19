@@ -105,7 +105,7 @@
 
 </details>
 
-<details open>
+<!-- <details open>
 <summary>Top Projects</summary>
 <p align="center">
     <a href="https://github.com/Saifmk10/weather---by-digitalLog">
@@ -118,27 +118,27 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifmk10&repo=investo&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
-</details>
+</details> -->
 
-<details open>
+<!-- <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifmk10&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
 </p>
-</details>
+</details> -->
 
 
 
 
-<p align="center" style="font-style: italic; color: #C2FFC7;">
+<!-- <p align="center" style="font-style: italic; color: #C2FFC7;">
     🛠️ Currently building : Connecting Individuals Within the City Through a Unified Platform
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
 <a href="#">
     <img height="120" alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
 </a>
-<br>
+<br> -->
 
 <blockquote>
 <p><strong>"Keep building, keep dreaming — the future runs on your code"</strong></p>
